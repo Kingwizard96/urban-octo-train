@@ -1,12 +1,41 @@
 # E-Commerce Back End
 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+## Table of Contents
+
+ * [Description](#description)
+
+ * [Live-Screen-Recording-of-Application-Functionality](#live-screen-recording-of-application-functionality)
+
+ * [Screenshot](#screenshots)
+
+ * [License](#license)
+
+ * [Questions](#questions)
+
+
+
+## live-screen-recording-of-application-functionality
+("https://drive.google.com/file/d/1Jg7KwZ_-e4ycRl4bOidTxJoZfCOWdGG5/view")
+
+
+## Screenshots
+
+![Screenshot 2023-10-30 at 2 57 19 PM (2)](https://github.com/Kingwizard96/urban-octo-train/assets/132643725/52717d4f-3a23-4682-a108-6cb2fade1797)
+
+
+![Screenshot 2023-10-30 at 2 58 06 PM (2)](https://github.com/Kingwizard96/urban-octo-train/assets/132643725/0db2a719-4bca-4a8c-b68f-c9236d94902a)
+
+
+<img width="1440" alt="Screenshot 2023-10-30 at 3 06 13 PM" src="https://github.com/Kingwizard96/urban-octo-train/assets/132643725/2e558037-6ec0-4c18-aab1-a9f4754e44b9">
+
+
+
 ## User Story
 
 As a manager at an internet retail company, I want a back end for my e-commerce website that uses the latest technologies so that my company can compete with other e-commerce companies.
-
-## Acceptance Criteria
-
-To meet the manager's requirements, this project should satisfy the following acceptance criteria:
 
 ### 1. Database Setup
 
