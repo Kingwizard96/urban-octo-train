@@ -71,3 +71,17 @@ To set up and run this project, follow these steps:
 
    ```bash
    git clone git@github.com:Kingwizard96/urban-octo-train.git
+## Contributors
+
+	•	Cristofher Alvarado
+
+## License
+
+NOTICE: This application is covered under the MIT License
+
+## Questions
+
+If you have any questions about the project, please feel free to contact 
+
+- GitHub Profile: [GitHub Username](https://github.com/kingwizard96)
+- Email: [Email Address](mailto:calvarado1996@gmail.com)
