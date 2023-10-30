@@ -70,4 +70,4 @@ To set up and run this project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:Kingwizard96/urban-octo-train.git
